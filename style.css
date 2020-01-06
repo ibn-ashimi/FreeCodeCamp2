@@ -1,0 +1,40 @@
+html, body{
+  font-family: sans-serif, arial;
+  text-align:center;
+  max-width: 100%;
+  color: #333;
+  }
+  #main{
+   margin: 30px auto;
+    padding: 15px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: #eee;
+  }
+  img {
+      max-width: 100%;
+      display: block;
+      height: auto;
+      margin: auto;
+  }
+  #img-div{
+    margin:-5px;
+    margin-top:20px;
+    width:100%;
+      border: 5px solid white;
+      background-color: white;
+      }
+    #img-caption{
+      margin: 15px;
+    }
+    ul{
+      max-width:550px;
+      margin:0 auto;
+        text-align:left;
+      }
+      li{
+        margin: 10px;
+      }
+      blockquote{
+        font-style: italic;
+      }
